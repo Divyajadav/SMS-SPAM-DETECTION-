@@ -50,7 +50,6 @@ streamlit run app.py.
 ```
 + Visit localhost:8501 on your web browser to access the web app.
 
-created by ~
-DIVYA JADAV
+
 
 
