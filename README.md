@@ -34,7 +34,7 @@ Multiple classifier models were tried, including NaiveBayes, random forest, KNN,
 The model was deployed on the web using Streamlit. The user interface has a simple input box where the user can input a message, and the model will predict whether it is spam or not spam.
 
 ## Demo
-To try out the SMS Spam Detection model, visit [here](https://textsafe.streamlit.app/).
+To try out the SMS Spam Detection model, visit [here] (https://divyajadav.streamlit.app/)
 
 ## Usage
 To use the SMS Spam Detection model on your own machine, follow these steps:
@@ -49,6 +49,7 @@ pip install -r requirements.txt.
 streamlit run app.py.
 ```
 + Visit localhost:8501 on your web browser to access the web app.
+  
 
 
 
