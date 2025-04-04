@@ -1,4 +1,4 @@
-# SMS SPAM DETECTION USIONG NLP SYSTEM
+# SMS SPAM DETECTION USING NLP SYSTEM
 
 ## Overview
 SMS Spam Detection is a machine learning model that takes an SMS as input and predicts whether the message is a spam or not spam message. The model is built using Python and deployed on the web using Streamlit.
